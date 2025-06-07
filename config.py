@@ -35,7 +35,7 @@ API_KEY = getenv("API_KEY", None) # youtube song api key, generate free key or b
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/sniperbhiya12/Aviax_sniper",
+    "https://github.com/sachinopboy2/Aviax_kajumusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -84,21 +84,21 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/20aee6a38c29ee256e07e-2e052d445b91dd3e4e.jpg"
+    "START_IMG_URL", "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
+    "PING_IMG_URL", "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
-STATS_IMG_URL = "https://graph.org/file/e1902ec72ac5b0f71cb8c-bc7a7f6a3c5fc05863.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/20aee6a38c29ee256e07e-2e052d445b91dd3e4e.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/20aee6a38c29ee256e07e-2e052d445b91dd3e4e.jpg"
-STREAM_IMG_URL = "https://graph.org/file/20aee6a38c29ee256e07e-2e052d445b91dd3e4e.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/20aee6a38c29ee256e07e-2e052d445b91dd3e4e.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/20aee6a38c29ee256e07e-2e052d445b91dd3e4e.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+STATS_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+STREAM_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/345ca8a8f878ae82e0c6c-6bf0c711a588e2d303.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/345ca8a8f878ae82e0c6c-6bf0c711a588e2d303.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/345ca8a8f878ae82e0c6c-6bf0c711a588e2d303.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/e4ac3731a71bd2cc4c174-b9af6be9fadcc97baf.jpg"
 
 
 def time_to_seconds(time):
